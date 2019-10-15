@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Writing user interfaces without all that ugly mucking about in hyperspace"
+name = "npyscreen"
+optional = false
+python-versions = "*"
+version = "4.10.5"
+
+[metadata]
+content-hash = "46c7970f6866084a71c89a915c97cb4183b498ed98e4cd32e602d39acf35fb83"
+python-versions = "^3.7"
+
+[metadata.hashes]
+npyscreen = ["622ee0f9a5dae946e635b7c6e0f6d65e1ed3c9ea0d20b89dab7f58d580e5126e"]
