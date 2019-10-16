@@ -1,11 +1,11 @@
 import random
 
-from npyscreen import Form, TitleText
+from npyscreen import Form, TitleText, FormMultiPage
 
 from gitlab_ui.color_grid import ColorGrid
 
 
-class StatusForm(Form):
+class StatusForm(FormMultiPage):
 
     def __init__(self, *args, **keywords) -> None:
         super().__init__(*args, **keywords)
